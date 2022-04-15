@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    style="display: flex; flex: 1; justify-content: flex-start; align-items: flex-start; height: 90vh; flex-direction: column;"
+  >
+    <div />
+    <div
+      style="display: flex; padding-left: 30px;"
+    >
+      <h1
+        style="color: rgb(126, 67, 215); padding-right: 20px;"
+      >
+        Conferences
+      </h1>
+      <div
+        style="display: flex; align-items: center; justify-content: flex-end;"
+      >
+        <button
+          style="height: 4vh; width: 4vh; border-radius: 50%; font-size: 22px; color: white; background-color: rgb(126, 67, 215); border-width: 0px; cursor: pointer;"
+        >
+          +
+        </button>
+      </div>
+    </div>
+    <div
+      style="display: flex; flex: 1; padding-left: 30px;"
+    >
+      <div
+        style="padding-right: 20px;"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-1 sc-bdvvtL iQhVPH"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-2"
+          >
+            <div
+              style="color: white;"
+            >
+              London Conference
+            </div>
+          </div>
+          <div
+            style="padding: 10px;"
+          >
+            22 July 2022 - 23 July 2022
+          </div>
+          <div
+            style="padding: 10px;"
+          >
+            London Hotel
+          </div>
+          <div
+            style="padding: 10px;"
+          >
+            My Role: Program chair
+          </div>
+          <div
+            style="padding: 10px;"
+          >
+            Annual London conference, over 5000 participants last year, conference website: www.conference.com
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

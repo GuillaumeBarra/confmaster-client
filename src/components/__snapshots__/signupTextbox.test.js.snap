@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-dkPtRN beWxGE"
+  >
+    <div
+      class="sc-gsDKAQ gtLMAp"
+    />
+    <div
+      class="MuiInputBase-root sc-bdvvtL cPIRI"
+      sx="[object Object]"
+    >
+      <input
+        class="MuiInputBase-input"
+        type="text"
+        value=""
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

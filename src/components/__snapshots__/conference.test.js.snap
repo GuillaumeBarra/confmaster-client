@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    style="padding-right: 20px;"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-1 sc-bdvvtL iQhVPH"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-2"
+      >
+        <div
+          style="color: white;"
+        />
+      </div>
+      <div
+        style="padding: 10px;"
+      />
+      <div
+        style="padding: 10px;"
+      />
+      <div
+        style="padding: 10px;"
+      >
+        My Role: 
+      </div>
+      <div
+        style="padding: 10px;"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

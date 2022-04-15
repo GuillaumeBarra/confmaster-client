@@ -1,0 +1,148 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <nav
+      class="sc-bdvvtL gQEaED"
+    >
+      <a
+        aria-current="page"
+        class="sc-gsDKAQ fQROCE active"
+        href="/"
+      >
+        <img
+          alt="logo"
+          height="70"
+          src="ConfMasterLogo.png"
+          width="100"
+        />
+      </a>
+      <svg
+        class="sc-dkPtRN iVtoBh"
+        fill="currentColor"
+        height="1em"
+        stroke="currentColor"
+        stroke-width="0"
+        viewBox="0 0 448 512"
+        width="1em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"
+        />
+      </svg>
+      <div
+        class="sc-hKwDye kazIab"
+      >
+        <a
+          class="sc-gsDKAQ fQROCE"
+          href="/profile"
+        >
+          profile
+        </a>
+        <a
+          class="sc-gsDKAQ fQROCE"
+          href="/tasks"
+        >
+          tasks
+        </a>
+        <a
+          class="sc-gsDKAQ fQROCE"
+          href="/conferences"
+        >
+          conference
+        </a>
+      </div>
+      <button
+        style="display: flex; align-items: center; justify-content: center; font-size: 17px; height: 3vh; width: 10vw; border-radius: 10px; background: rgb(255, 255, 255); padding: 3vh; color: rgb(126, 67, 215); outline: none; cursor: pointer; transition: all 0.2s ease-in-out;"
+      >
+        Log Out
+      </button>
+    </nav>
+    <div
+      style="display: flex; justify-content: flex-start; align-items: flex-start; height: 90vh; padding-left: 30px; flex-direction: column;"
+    >
+      <div>
+        <h1
+          style="color: rgb(126, 67, 215);"
+        >
+          Home
+        </h1>
+      </div>
+      <div
+        style="display: flex; flex: 1;"
+      >
+        <div
+          style="flex-direction: column;"
+        >
+          <h2
+            style="font-weight: 600;"
+          >
+            Conferences
+          </h2>
+          <div
+            style="display: flex;"
+          >
+            <div
+              style="padding-right: 20px;"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-1 sc-iCfMLu bSDyWd"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-2"
+                >
+                  <div
+                    style="color: white;"
+                  >
+                    London Conference
+                  </div>
+                </div>
+                <div
+                  style="padding: 10px;"
+                >
+                  22 July 2022 - 23 July 2022
+                </div>
+                <div
+                  style="padding: 10px;"
+                >
+                  London Hotel
+                </div>
+                <div
+                  style="padding: 10px;"
+                >
+                  My Role: Program chair
+                </div>
+                <div
+                  style="padding: 10px;"
+                >
+                  Annual London conference, over 5000 participants last year, conference website: www.conference.com
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          style="flex-direction: column; padding-left: 60px;"
+        >
+          <h2
+            style="font-weight: 600;"
+          >
+            Tasks
+          </h2>
+          <div
+            style="display: flex;"
+          >
+            <p>
+              Loading Tasks...
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
